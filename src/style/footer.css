@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap');
+.footer{
+    margin-top: 100px;
+    padding-top: 100px;
+    background-color: #24252a;
+    color: #92959b;
+    font-family: 'Nunito', sans-serif;
+}
+.footer h2{
+    font-size: 19px;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255);
+}
+.footer p {
+    font-size: 14px;
+    line-height: 30px
+}
+.footer .media i{
+    margin-top: 10px;
+    margin-right: 20px;
+    font-size: 20px;
+    color: #92959b;
+}
+
+.footer .copy-right{
+    margin-top: 20px;
+    background-color: #222324;
+    font-size: 14px;
+    padding: 20px
+
+}

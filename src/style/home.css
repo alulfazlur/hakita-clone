@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+body{
+  font-family: 'Lato', sans-serif;
+font-size: 14px;
+background-color: #fafafa;
+}
+
+.section-title{
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: #404040;
+}
+.section-sub-title{
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  color: #404040;
+  margin-top: 50px;
+}
+.title-detail{
+  color: #777;
+}
+.section1 {
+    background-image: url(../images/main-hero-man2.jpg);
+    height: 480px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  
+  .section1 h1 {
+    margin-top: 50px;
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    font-size: 50px;
+    margin-left: -30px;
+  }
+  .section1 .lead {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+  }
+  .section1 .btn{
+    padding: 1rem 2rem !important;
+    border-radius: 10px !important;
+  }
+  .home-btn {
+    margin-top: 30px;
+    color: white !important;
+    font-weight: 500;
+    font-size: 15px;
+    background-color: #5089C7;
+    margin-left: -30px;
+  }
+  
+
+  .section2 {
+    margin-top: 135px;
+  }
+  .section2 h3 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+  }
+  .section2 i {
+    font-size: 50px;
+  }
+  .section2 p{
+    font-size: 0.875rem;
+  }
+
+
+  .section3{
+    margin-top: 40px;
+    margin-bottom: 100px;
+  }
+  .section3 img{
+    width: 100px;
+    height: 100px;
+  }
+  .section3 p {
+    font-size: 0.875rem;
+  }
+  .section3 .service{
+    box-shadow: 0 0 8px 2px rgba(0,0,0,.2);
+    border-radius: 10px;
+    padding: 50px;
+    margin-bottom: 20px;
+  }
+  .section3 h3 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+  }
+  .section3 p{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+
+  .section4 {
+    background-image: url(../images/success-rate-min.jpg);
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+  }
+  .section4 h2{
+    font-weight: 500;
+    font-size: 2.25rem;
+    line-height: 1.5;
+  }
+
+
+  .section5 .service{
+    box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2);
+    border-radius: 10px;
+    padding: 30px 40px;
+    margin-bottom: 20px;
+    width: 350px;
+    height: 220px;
+  }
+
+  .section5 .title-detail{
+    color: #777;
+    margin-bottom: 75px;
+  }
+
+  .section5 .blog-label{
+    color: white;
+    background-color: #5089C7;
+    padding: 3px 7px;
+    max-width: fit-content;
+  }
+
+  .section5 .blog-title{
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+  color: #404040;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  line-height: 1.43;
+  font-size: 15px;
+  }
+
+.section5 .blog-date{
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+  color: gray;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 500;
+  line-height: 1.43;
+  margin-bottom: 20px;
+  }
+
+.section5 .blog-link{
+  color:#1C4481;
+  font-weight: 700;
+}
+
+.section5 hr{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border : 1px solid rgba(199, 198, 198, 0.418);
+}
+
+.section6 .service{
+  border : 1px solid rgb(199, 198, 198);
+  border-radius: 10px;
+  padding: 50px;
+  margin-bottom: 20px;
+  width: 350px;
+  height: 220px;
+}
+
+.section6 i {
+  background-color: #1C4481;
+  border-radius: 50%;
+  font-size: 20px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+}
+.section6 p {
+  font-weight: 700;
+  font-size: 14px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
